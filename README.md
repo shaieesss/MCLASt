@@ -1,3 +1,4 @@
+<meta name="robots" content="noindex">
 # introduce  
 official implement of "MCLASt: Multi-hierarchy contrastive learning graph anomaly detection with structure-awareness"
 # Precedure  
