@@ -2,7 +2,7 @@
 
 
 # introduce  
-official implement of "MCLASt: Multi-hierarchy contrastive learning graph anomaly detection with structure-awareness"
+official implementation of "MCLASt: Multi-hierarchy contrastive learning graph anomaly detection with structure-awareness"
 # Precedure  
 1. create folder "pkl" and "result"
 2. run topolofy_dist.py
